@@ -1,0 +1,7 @@
+{
+  "name": "buckaroo-test-johnmcfarlane-fixed-point",
+  "dependencies": {
+    "johnmcfarlane/fixed-point": "2017.0.0",
+    "google/gtest": "1.8.0"
+  }
+}
